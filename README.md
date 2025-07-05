@@ -8,7 +8,7 @@ The most widely used, high-performance Minecraft server that aims to fix gamepla
 How To (Server Admins)
 ------
 1.21.7 dolick
-Download Dolick from our [downloads page]([https://www.mediafire.com/file/o6xn46000rj0ojg/Dolick.1.21.7.jar/file]).
+Download Dolick from our [download page](https://www.mediafire.com/file/o6xn46000rj0ojg/Dolick.1.21.7.jar/file).
 
 Run the Dolick jar directly from your server. Just like old times
 

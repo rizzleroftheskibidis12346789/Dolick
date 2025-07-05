@@ -9,6 +9,7 @@ How To (Server Admins)
 ------
 1.21.7 dolick
 Download Dolick from mediafire.com/file/o6xn46000rj0ojg/Dolick.1.21.7.jar/file
+
 Run the Dolick jar directly from your server. Just like old times
 
 
